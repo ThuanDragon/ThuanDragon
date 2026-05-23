@@ -1,13 +1,29 @@
-## Hi there 👋
+Hi, I'm Thuan
 
-I'm Thuan, an aspiring software developer with a lifelong passion for technology and IT.
-From a young age, I was captivated by the inner workings of computers, exploring everything from building PCs to understanding computer viruses.
-This early curiosity evolved into a deep interest in both hardware and software.
-- 🌱 I’m currently learning: Cutting-edge programming languages and exploring the latest trends in the IT industry.
-- 👯 I’m looking to collaborate on: Exciting IT projects that push the boundaries of innovation.
-- 🤔 I’m looking for help with: Mastering complex algorithms and diving into cybersecurity.
-- 💬 Ask me about: Software development, IT industry insights, and tech career advice.
-- 📫 How to reach me: phanthuan2025@gmail.com
-- ⚡ Fun fact: I view the IT field as a constantly evolving landscape, where there's always something new to learn and explore.
+Java Backend Developer passionate about building scalable and efficient systems.
 
-Let's connect and drive innovation in the IT world together!
+I have hands-on experience developing backend applications with Java, Spring Boot, Hibernate/JPA, RESTful APIs, SQL databases, and microservice-oriented architectures through real-world internship projects.
+
+🚀 Currently focusing on: Java Backend Development & System Design
+🌱 Learning: Spring Security, Kafka, Docker, Microservices, and Cloud technologies
+💡 Interested in: Backend Architecture, API Development, System Integration, and Performance Optimization
+🛠 Tech Stack: Java, Spring Boot, Hibernate/JPA, MySQL, PostgreSQL, Docker, Kafka, Git
+🔍 Exploring: Cybersecurity and scalable distributed systems
+📫 Contact: phanthuan2025@gmail.com
+⚡ Fun fact: I enjoy solving backend problems and optimizing system performance through clean and maintainable code.
+
+🔧 Technologies & Tools
+Java | Spring Boot | Hibernate/JPA | REST API
+MySQL | PostgreSQL | SQL Server
+Docker | Kafka | Git | Postman
+HTML | CSS | JavaScript | Angular
+
+📌 Featured Experience
+Backend Developer Intern at ATOM Solution
+Worked on POS systems for banking clients
+Developed APIs with Java, Kafka, and Python
+Integrated MQTT messaging and Excel processing
+Containerized services using Docker
+Developer Intern at Viet Japan Digital
+Built RESTful APIs and automation workflows
+Integrated AI APIs and data processing systems
